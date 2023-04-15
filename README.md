@@ -4,4 +4,5 @@ The United States Geological Survey, or USGS for short, is responsible for provi
   
 [Part 1 - Main Solution](Leaflet-Part-1/static/js/logic.js)  
   
+[GitHub Pages](https://johnjamesktm.github.io/leaflet-challenge/)  
   
